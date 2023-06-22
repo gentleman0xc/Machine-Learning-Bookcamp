@@ -6,4 +6,5 @@ O "Machine Learning Bookcamp" é um recurso valioso para qualquer pessoa interes
 
 ### Requisitos
 Python 3.x
+
 Jupyter Notebook
